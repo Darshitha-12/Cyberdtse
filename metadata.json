@@ -1,0 +1,8 @@
+
+{
+  "name": "CYBER DT VAULT",
+  "description": "Zero-knowledge hardware-protected vault application for secure storage of sensitive data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
